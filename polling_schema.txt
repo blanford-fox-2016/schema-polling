@@ -1,0 +1,18 @@
+http://imgur.com/a/SoFs7
+
+
+User bisa membuat banyak poll, tapi poll hanya satu user saja.
+User one to many polls
+
+Polls memiliki question satu saja, dan question memiliki satu polls saja.
+poll one to one questions.
+
+Polls memiliki banyak jawaban.
+Polls one to many answers.
+
+User memiliki satu jawaban saja untuk setiap poll.
+user one to one user_answer.
+
+setiap jawaban ini hanya ada satu saja di questions.
+
+user_answer one to one questions
